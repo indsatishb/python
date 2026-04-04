@@ -1,0 +1,16 @@
+verybody knows that there are 7 "days of the week".
+
+But do you know that there are only 5 "weekdays"?
+
+And of course the "weekend" has 2 days.
+
+The days of the week come from the Names of mythical figures, so the first letter of each day must be a CAPITAL letter.
+
+Days of the Week:
+Monday = associated with the Moon
+Tuesday = from the god Tiw, associated with Mars
+Wednesday = from Germanic god Odin
+Thursday = from Germanic god of thunder Thor
+Friday = from Germanic goddess Frigga associated with Venus
+Saturday = associated with Saturn
+Sunday = associated with the Sun
